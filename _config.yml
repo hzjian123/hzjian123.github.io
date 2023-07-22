@@ -12,7 +12,7 @@ repository               : "hzjian123/hzjian123.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-WK9V9NC569 # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "G-WK9V9NC569" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  google-site-verification=MUqVpTlCYaKGSoz4Rqi66aoxpM_TKgUn_xRvY7WKtKE# get google_site_verification from https://search.google.com/search-console/about
@@ -28,8 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "zihe@ucsd.edu"
+  researchgate     : "https://www.researchgate.net/profile/Zijian-He-5" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "hzjian123"# e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "eachannn"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "hzjian123"# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
