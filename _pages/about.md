@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-My research interest includes computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ'>google scholar citations <strong><span id='total_cit'>64+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a second year Master student in UC San Diego majoring in Electrical Computer Engineering. I decide to make my personal portfolio as a platform to share photos and express ideas. Currently I live in San Diego and used to lived in Hong Kong :)
+I used to prefer to live in big cities rather than small towns. Until a certain moment I realized side effects of metropolitan such as pollution and narrow living space. Then I decide to explore more possibilities in life. That include studying a new major and traveling to a new country. I have generally broad interests from sports to music. This website covers some of my photography where you can access here..
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
