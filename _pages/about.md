@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arches National Park</div><img src='images/arch.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 I am currently a second year Master student in UC San Diego majoring in Electrical Computer Engineering. I decide to make my personal portfolio as a platform to share photos and express ideas. Currently I live in San Diego and used to lived in Hong Kong :)\
 I used to prefer to live in big cities rather than small towns. Until a certain moment I realized side effects of metropolitan such as pollution and narrow living space. Then I decide to explore more possibilities in life. That include studying a new major and traveling to a new country. I have generally broad interests from sports to music. This website covers some of my photography where you can access here..\
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>64+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -27,8 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/arch.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
