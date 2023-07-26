@@ -16,10 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arches National Park</div><img src='images/arch.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lifetime moment at Delicate Arch</div><img src='images/arch.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-I am currently a second year Master student in UC San Diego majoring in Electrical Computer Engineering. I decide to make my personal portfolio as a platform to share photos and express ideas. Currently I live in San Diego and used to lived in Hong Kong :)\
-I used to prefer to live in big cities rather than small towns. Until a certain moment I realized side effects of metropolitan such as pollution and narrow living space. Then I decide to explore more possibilities in life. That include studying a new major and traveling to a new country. I have generally broad interests from sports to music. This website covers some of my photography where you can access here..\
+I am a recent graduate of the Master's program in Electrical Computer Engineering at UC San Diego. Aspiring to create my personal portfolio, I have set up this platform to share ideas and express myself. Currently, I have returned to Hong Kong after leaving San Diego:)\
+In the past, I used to gravitate towards big cities, following trends and being influenced by the people around me. However, I had a realization about the side effects of metropolitan living, such as pollution and limited living space. This led me to explore more possibilities in life, including studying a new major and traveling to new countries. Now, I consider myself an adventurer and trailblazer, and I believe this attribute will greatly enrich my life.
+My interests are quite diverse, ranging from sports to music. On this website, I have documented some of my proudest moments, which you can access below...\
 </div>
 </div>
 I am currently a second year Master student in UC San Diego majoring in Electrical Computer Engineering. I decide to make my personal portfolio as a platform to share photos and express ideas. Currently I live in San Diego and used to lived in Hong Kong :)\
