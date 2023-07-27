@@ -23,7 +23,7 @@ In the past, I used to gravitate towards big cities, following trends and being 
 My interests are quite diverse, ranging from sports to music. On this website, I have documented some of my proudest moments, which you can access below...<br>
 </div>
 </div>
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>64+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes computer vision and self-supervised learning. I have several related projects and academic journals with total <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>64+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -33,8 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.08 - 2020.06*, Bachelor, The Hong Kong Polytechnic University, Hong Kong
 - *2018.09 - 2019.01*, Exchange Program, Cardiff University, United Kingdom\
 # 💻 Work Experience
-*2022.06 - 2022.9*,TCL Corporate Research, Hong Kong\
-*2020.07 - 2021.7*,TCL Corporate Research, Hong Kong\
+*2022.06 - 2022.9*,Data Scientist, TCL Corporate Research, Hong Kong\
+*2020.07 - 2021.7*,Research Assistant, Hong Kong Polytechnic University, Hong Kong\
 # 🎓 Projects
 [**Conditional Diffusion Model for Image Super‐Resolution**](https://github.com/hzjian123/Deep-Image-HDR-with-Attention)
 - Implemented a conditional diffusion model based on the SR3 model to generate high-resolution images from low-resolution inputs.
