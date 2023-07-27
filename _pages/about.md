@@ -35,26 +35,28 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Work Experience
 *2022.06 - 2022.9*,TCL Corporate Research, Hong Kong\
 *2020.07 - 2021.7*,TCL Corporate Research, Hong Kong\
+# 🎓 Projects
+[**Conditional Diffusion Model for Image Super‐Resolution**](https://github.com/hzjian123/Deep-Image-HDR-with-Attention)
+- Implemented a conditional diffusion model based on the SR3 model to generate high-resolution images from low-resolution inputs.
+- Modified the training objective to predict residual between output and input, leading to faster convergence and improved preservation of details.
+- Infused low-resolution inputs into bottleneck layers to enhance output consistency, resulting in improvements of PSNR (23.1) and SSIM (0.69).\
+[**Network Systems Project**](https://github.com/hzjian123/cloud-file-storage-system)
+- Developed a web server for data retrieval using a custom HTTP/1.1 protocol which is robust to invalid request. Built a cloud‐based file storage service with metadata and data block server based on Dropbox, support concurrent data access by gRPC.
+- Implemented a distributed data blocks storage system with consistent hashing algorithm for efficient and fault‐tolerant data storage.
+- Replicated metadata server for fault‐tolerance and consistency, using the RAFT consensus protocol for consistent state machine updates.\
+[**Deep Learning for Image Captioning on Fliker 8K Dataset**]
+- Constructed an Encoder-Decoder structure with ResNet and LSTM respectively, and trained the model sequentially to generate captions with a unigram BLEU score of 0.28.
+- Improved the caption generation ability by introducing the soft attention mask and achieved a BLEU score of 0.26.
+- Further enhanced the model by replacing the encoder with a pre-trained Vision Transformer and the decoder with GPT-2, resulting in a total BLEU score of 0.53.\
+Find more projects at [my github page](https://github.com/hzjian123).\
+# 🎖 Honors and Awards
+- *2018-2019*, Dean's List, Hong Kong Polytechnic University, Hong Kong\
+- 
 # 📝 Publications 
-
 [400 MHz ultrafast optical coherence tomography](https://www.researchgate.net/profile/Dongmei-Huang-7/publication/347582425_400_MHz_ultrafast_optical_coherence_tomography/links/62d8cd0425155478d541880b/400-MHz-ultrafast-optical-coherence-tomography.pdf)\
 Dongmei Huang, Feng Li, **Zijian He**, Zihao Cheng, Chao Shang, PKA Wai\
 [Ultrasensitive optofluidic enzyme-linked immunosorbent assay by on-chip integrated polymer whispering-gallery-mode microlaser sensors](https://pubs.rsc.org/en/content/articlehtml/2020/lc/d0lc00240b)\
 Xia Ouyang, Tong Liu, Yangxi Zhang, Jijun He, **Zijian He**, A Ping Zhang, Hwa-Yaw Tam\
 [Multifunctional textile platform for fiber optic wearable temperature-monitoring application](https://www.mdpi.com/2072-666X/10/12/866)\
 Ziyang Xiang, Liuwei Wan, Zidan Gong, Zhuxin Zhou, Zhengyi Ma, Xia OuYang, **Zijian He**, Chi Chiu Chan\
-# 🎓 Projects
-[**Conditional Diffusion Model for Image Super‐Resolution**](https://github.com/hzjian123/Deep-Image-HDR-with-Attention)
-- Implemented a conditional diffusion model based on the SR3 model to generate high-resolution images from low-resolution inputs.
-- Modified the training objective to predict residual between output and input, leading to faster convergence and improved preservation of details.
-- Infused low-resolution inputs into bottleneck layers to enhance output consistency, resulting in improvements of PSNR (23.1) and SSIM (0.69).
-[**Network Systems Project**](https://github.com/hzjian123/cloud-file-storage-system)
-- Developed a web server for data retrieval using a custom HTTP/1.1 protocol which is robust to invalid request. Built a cloud‐based file storage service with metadata and data block server based on Dropbox, support concurrent data access by gRPC.
-- Implemented a distributed data blocks storage system with consistent hashing algorithm for efficient and fault‐tolerant data storage.
-- Replicated metadata server for fault‐tolerance and consistency, using the RAFT consensus protocol for consistent state machine updates.
-  
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 
