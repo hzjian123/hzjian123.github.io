@@ -39,16 +39,15 @@ Dongmei Huang, Feng Li, **Zijian He**, Zihao Cheng, Chao Shang, PKA Wai\
 Xia Ouyang, Tong Liu, Yangxi Zhang, Jijun He, **Zijian He**, A Ping Zhang, Hwa-Yaw Tam\
 [Multifunctional textile platform for fiber optic wearable temperature-monitoring application](https://www.mdpi.com/2072-666X/10/12/866)\
 Ziyang Xiang, Liuwei Wan, Zidan Gong, Zhuxin Zhou, Zhengyi Ma, Xia OuYang, **Zijian He**, Chi Chiu Chan\
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- LOOK At this one!!!!, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-- [Where are we nowwwwwwwwwwww?????    ctetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 # 🎓 Projects
 [**Conditional Diffusion Model for Image Super‐Resolution**](https://github.com/hzjian123/Deep-Image-HDR-with-Attention)
-Implemented a conditional diffusion model based on the SR3 model to generate high-resolution images from low-resolution inputs.
-Modified the training objective to predict residual between output and input, leading to faster convergence and improved preservation of details.
-Infused low-resolution inputs into bottleneck layers to enhance output consistency, resulting in improvements of PSNR (23.1) and SSIM (0.69).
+- Implemented a conditional diffusion model based on the SR3 model to generate high-resolution images from low-resolution inputs.
+- Modified the training objective to predict residual between output and input, leading to faster convergence and improved preservation of details.
+- Infused low-resolution inputs into bottleneck layers to enhance output consistency, resulting in improvements of PSNR (23.1) and SSIM (0.69).
+[**Network Systems Project**](https://github.com/hzjian123/cloud-file-storage-system)
+- Developed a web server for data retrieval using a custom HTTP/1.1 protocol which is robust to invalid request. Built a cloud‐based file storage service with metadata and data block server based on Dropbox, support concurrent data access by gRPC.
+- Implemented a distributed data blocks storage system with consistent hashing algorithm for efficient and fault‐tolerant data storage.
+- Replicated metadata server for fault‐tolerance and consistency, using the RAFT consensus protocol for consistent state machine updates. 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
