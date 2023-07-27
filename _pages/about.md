@@ -28,10 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 I graduated from UCSD and return to Hong Kong!
-
+# 💻 Internships
+*2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 # 📝 Publications 
-
-
 
 [400 MHz ultrafast optical coherence tomography](https://www.researchgate.net/profile/Dongmei-Huang-7/publication/347582425_400_MHz_ultrafast_optical_coherence_tomography/links/62d8cd0425155478d541880b/400-MHz-ultrafast-optical-coherence-tomography.pdf)\
 Dongmei Huang, Feng Li, **Zijian He**, Zihao Cheng, Chao Shang, PKA Wai\
@@ -53,12 +52,12 @@ Ziyang Xiang, Liuwei Wan, Zidan Gong, Zhuxin Zhou, Zhengyi Ma, Xia OuYang, **Zij
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2023.06* Master, University of California, San Diego, United States
+- *2016.08 - 2020.06*, Bachelor, The Hong Kong Polytechnic University, Hong Kong
+- *2018.09 - 2019.01*, Exchange Program, Cardiff University, United Kingdom
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
