@@ -33,18 +33,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-[400 MHz ultrafast optical coherence tomography](https://www.researchgate.net/profile/Dongmei-Huang-7/publication/347582425_400_MHz_ultrafast_optical_coherence_tomography/links/62d8cd0425155478d541880b/400-MHz-ultrafast-optical-coherence-tomography.pdf)
-Dongmei Huang, Feng Li, **Zijian He**, Zihao Cheng, Chao Shang, PKA Wai
-[Ultrasensitive optofluidic enzyme-linked immunosorbent assay by on-chip integrated polymer whispering-gallery-mode microlaser sensors](https://pubs.rsc.org/en/content/articlehtml/2020/lc/d0lc00240b)
-Xia Ouyang, Tong Liu, Yangxi Zhang, Jijun He, **Zijian He**, A Ping Zhang, Hwa-Yaw Tam
-[Multifunctional textile platform for fiber optic wearable temperature-monitoring application](https://www.mdpi.com/2072-666X/10/12/866)
-Ziyang Xiang, Liuwei Wan, Zidan Gong, Zhuxin Zhou, Zhengyi Ma, Xia OuYang, **Zijian He**, Chi Chiu Chan
+[400 MHz ultrafast optical coherence tomography](https://www.researchgate.net/profile/Dongmei-Huang-7/publication/347582425_400_MHz_ultrafast_optical_coherence_tomography/links/62d8cd0425155478d541880b/400-MHz-ultrafast-optical-coherence-tomography.pdf)\
+Dongmei Huang, Feng Li, **Zijian He**, Zihao Cheng, Chao Shang, PKA Wai\
+[Ultrasensitive optofluidic enzyme-linked immunosorbent assay by on-chip integrated polymer whispering-gallery-mode microlaser sensors](https://pubs.rsc.org/en/content/articlehtml/2020/lc/d0lc00240b)\
+Xia Ouyang, Tong Liu, Yangxi Zhang, Jijun He, **Zijian He**, A Ping Zhang, Hwa-Yaw Tam\
+[Multifunctional textile platform for fiber optic wearable temperature-monitoring application](https://www.mdpi.com/2072-666X/10/12/866)\
+Ziyang Xiang, Liuwei Wan, Zidan Gong, Zhuxin Zhou, Zhengyi Ma, Xia OuYang, **Zijian He**, Chi Chiu Chan\
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - LOOK At this one!!!!, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 - [Where are we nowwwwwwwwwwww?????    ctetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-#🎓 Projects
+# 🎓 Projects
 [**Conditional Diffusion Model for Image Super‐Resolution**](https://github.com/hzjian123/Deep-Image-HDR-with-Attention)
 Implemented a conditional diffusion model based on the SR3 model to generate high-resolution images from low-resolution inputs.
 Modified the training objective to predict residual between output and input, leading to faster convergence and improved preservation of details.
