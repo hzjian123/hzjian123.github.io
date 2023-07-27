@@ -51,7 +51,6 @@ My research interest includes computer vision and self-supervised learning. I ha
 Find more projects at [my github page](https://github.com/hzjian123).\
 # 🎖 Honors and Awards
 - *2018-2019*, Dean's List, Hong Kong Polytechnic University, Hong Kong\
-- 
 # 📝 Publications 
 [400 MHz ultrafast optical coherence tomography](https://www.researchgate.net/profile/Dongmei-Huang-7/publication/347582425_400_MHz_ultrafast_optical_coherence_tomography/links/62d8cd0425155478d541880b/400-MHz-ultrafast-optical-coherence-tomography.pdf)\
 Dongmei Huang, Feng Li, **Zijian He**, Zihao Cheng, Chao Shang, PKA Wai\
