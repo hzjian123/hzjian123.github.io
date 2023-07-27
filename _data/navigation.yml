@@ -10,10 +10,10 @@ main:
     url: "/#-educations"
 
     - title: "Work Experience"
-    url: "/#-Work-Experience"
+    url: "/#-work-experience"
 
     - title: "Projects"
-    url: "/#-Projects"
+    url: "/#-projects"
     
   - title: "Publications"
     url: "/#-publications"
