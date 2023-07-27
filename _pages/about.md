@@ -27,9 +27,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 I graduated from UCSD and return to Hong Kong!
-# 💻 Internships
-*2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.02*: &nbsp;🎉🎉 I graduated from UCSD and return to Hong Kong!\
+# 📖 Educations
+- *2021.09 - 2023.06* Master, University of California, San Diego, United States
+- *2016.08 - 2020.06*, Bachelor, The Hong Kong Polytechnic University, Hong Kong
+- *2018.09 - 2019.01*, Exchange Program, Cardiff University, United Kingdom\
+# 💻 Work Experience
+*2022.06 - 2022.9*,TCL Corporate Research, Hong Kong\
+*2020.07 - 2021.7*,TCL Corporate Research, Hong Kong\
 # 📝 Publications 
 
 [400 MHz ultrafast optical coherence tomography](https://www.researchgate.net/profile/Dongmei-Huang-7/publication/347582425_400_MHz_ultrafast_optical_coherence_tomography/links/62d8cd0425155478d541880b/400-MHz-ultrafast-optical-coherence-tomography.pdf)\
@@ -46,18 +51,10 @@ Ziyang Xiang, Liuwei Wan, Zidan Gong, Zhuxin Zhou, Zhengyi Ma, Xia OuYang, **Zij
 [**Network Systems Project**](https://github.com/hzjian123/cloud-file-storage-system)
 - Developed a web server for data retrieval using a custom HTTP/1.1 protocol which is robust to invalid request. Built a cloud‐based file storage service with metadata and data block server based on Dropbox, support concurrent data access by gRPC.
 - Implemented a distributed data blocks storage system with consistent hashing algorithm for efficient and fault‐tolerant data storage.
-- Replicated metadata server for fault‐tolerance and consistency, using the RAFT consensus protocol for consistent state machine updates. 
+- Replicated metadata server for fault‐tolerance and consistency, using the RAFT consensus protocol for consistent state machine updates.
+  
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2021.09 - 2023.06* Master, University of California, San Diego, United States
-- *2016.08 - 2020.06*, Bachelor, The Hong Kong Polytechnic University, Hong Kong
-- *2018.09 - 2019.01*, Exchange Program, Cardiff University, United Kingdom
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 
