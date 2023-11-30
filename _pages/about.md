@@ -20,6 +20,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 I am a recent graduate of the Master's program in Electrical Computer Engineering at UC San Diego. Aspiring to create my personal portfolio, I have set up this platform to share ideas and express myself. Currently, I have returned to Hong Kong after leaving San Diego:)<br>
 In the past, I used to gravitate towards big cities, following trends and being influenced by the people around me. However, I had a realization about the side effects of metropolitan living, such as pollution and limited living space. This led me to explore more possibilities in life, including studying a new major and traveling to new countries. Now, I consider myself an adventurer and trailblazer, and I believe this attribute will greatly enrich my life.<br>
+After experiencing numerous unforeseen incidents in recent months, I began to comprehend the sense of powerlessness that individuals face and the importance of embracing uncertainty.<br>
 My interests are quite diverse, ranging from sports to music. On this website, I have documented some of my proudest moments, which you can access below...<br>
 </div>
 </div>
@@ -27,14 +28,16 @@ My research interest includes computer vision and self-supervised learning. I ha
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 I graduated from UCSD and return to Hong Kong!\
+- *2023.11*: &nbsp;🎉🎉 I will start a new life in Beijing soon!\
+- *2023.06*: &nbsp;🎉🎉 I graduated from UCSD and returned to Hong Kong!\
 # 📖 Educations
 - *2021.09 - 2023.06* Master, University of California, San Diego, United States
 - *2016.08 - 2020.06*, Bachelor, The Hong Kong Polytechnic University, Hong Kong
 - *2018.09 - 2019.01*, Exchange Program, Cardiff University, United Kingdom\
 # 💻 Work Experience
-*2022.06 - 2022.9*,Data Scientist, TCL Corporate Research, Hong Kong\
-*2020.07 - 2021.7*,Research Assistant, Hong Kong Polytechnic University, Hong Kong\
+*2023.12 - Now*, Computer Vision AIGC Engineer,HAOMO.AI, Beijing, China
+*2022.06 - 2022.9*, Data Scientist, TCL Corporate Research, Hong Kong
+*2020.07 - 2021.7*, Research Assistant, Hong Kong Polytechnic University, Hong Kong\
 # 🎓 Projects
 [**Conditional Diffusion Model for Image Super‐Resolution**](https://github.com/hzjian123/Deep-Image-HDR-with-Attention)
 - Implemented a conditional diffusion model based on the SR3 model to generate high-resolution images from low-resolution inputs.
