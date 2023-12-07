@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zijian HE"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "HAOMO.AI"
+  bio              : 
   location         : "Kowloon,Hong Kong"
-  employer         :
+  employer         : "HAOMO.AI"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3ZqwcEYAAAAJ"
   email            : "hzj1271@gmail.com"
