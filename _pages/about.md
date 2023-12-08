@@ -28,7 +28,7 @@ My research interest includes computer vision and self-supervised learning. I ha
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 I will start a new life in Beijing soon!\
+- *2023.11*: &nbsp;🎉🎉 I will start a new life in Beijing soon!
 - *2023.06*: &nbsp;🎉🎉 I graduated from UCSD and returned to Hong Kong!\
 # 📖 Educations
 - *2021.09 - 2023.06* Master, University of California, San Diego, United States
@@ -36,7 +36,7 @@ My research interest includes computer vision and self-supervised learning. I ha
 - *2018.09 - 2019.01*, Exchange Program, Cardiff University, United Kingdom\
 # 💻 Work Experience
 *2023.12 - Now*, Computer Vision AIGC Engineer,HAOMO.AI, Beijing, China
-*2022.06 - 2022.9*, Data Scientist, TCL Corporate Research, Hong Kong
+*2022.06 - 2022.9*, Data Scientist, TCL Corporate Research, Hong Kong\
 *2020.07 - 2021.7*, Research Assistant, Hong Kong Polytechnic University, Hong Kong\
 # 🎓 Projects
 [**Conditional Diffusion Model for Image Super‐Resolution**](https://github.com/hzjian123/Deep-Image-HDR-with-Attention)
