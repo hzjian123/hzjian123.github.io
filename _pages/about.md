@@ -35,7 +35,7 @@ My research interest includes computer vision and self-supervised learning. I ha
 - *2016.08 - 2020.06*, Bachelor, The Hong Kong Polytechnic University, Hong Kong
 - *2018.09 - 2019.01*, Exchange Program, Cardiff University, United Kingdom\
 # 💻 Work Experience
-- *2023.12 - Now*, Computer Vision AIGC Engineer,HAOMO.AI, Beijing, China
+- *2023.12 - Now*, Computer Vision Algorithm Engineer,HAOMO.AI, Beijing, China
 - *2022.06 - 2022.9*, Data Scientist, TCL Corporate Research, Hong Kong
 - *2020.07 - 2021.7*, Research Assistant, Hong Kong Polytechnic University, Hong Kong\
 # 🎓 Projects
