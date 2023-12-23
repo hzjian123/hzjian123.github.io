@@ -30,6 +30,8 @@ My research interest includes computer vision and self-supervised learning. I ha
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 I will start a new life in Beijing soon!
 - *2023.06*: &nbsp;🎉🎉 I graduated from UCSD and returned to Hong Kong!\
+# 🧑‍💻 Blogs
+[**Personal Blog with Sharings and Thoughts**](https://hzjian123.github.io/Blog/)
 # 📖 Educations
 - *2021.09 - 2023.06*, Master, University of California, San Diego, United States
 - *2016.08 - 2020.06*, Bachelor, The Hong Kong Polytechnic University, Hong Kong
