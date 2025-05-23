@@ -1,0 +1,3 @@
+Sitemap: https://hzjian123.github.io/sitemap.xml
+User-agent: *
+Disallow:
