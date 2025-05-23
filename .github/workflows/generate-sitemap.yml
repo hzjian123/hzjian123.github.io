@@ -1,0 +1,16 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: https://hzjian123.github.io/
