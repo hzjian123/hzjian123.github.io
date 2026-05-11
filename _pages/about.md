@@ -18,11 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lifetime moment at Delicate Arch</div><img src='images/arch.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-I am an AI Engineer focused on Vision-Language Models (VLM), Vision-Language-Action (VLA), Embodied AI, and Foundation Models for Robotics and Autonomous Driving. I received my Master's degree in Electrical and Computer Engineering from UC San Diego.<br>
-
-This website serves as a space to share my projects, research interests, technical explorations, and thoughts on AI, robotics, travel, and life. My recent work includes VLM/VLA systems, stereo vision, multimodal learning, autonomous driving, and robotics foundation models.<br>
-
-Outside of technology, I enjoy exploring different countries, cultures, and landscapes. Traveling and living in different environments gradually changed my perspective on life beyond large metropolitan cities and encouraged me to pursue a more adventurous and open-ended path. I believe curiosity, adaptability, and embracing uncertainty are important not only in research, but also in life itself.<br>
+I am a recent graduate of the Master's program in Electrical Computer Engineering at UC San Diego. Aspiring to create my personal portfolio, I have set up this platform to share ideas and express myself. Currently, I have returned to Hong Kong after leaving San Diego:)<br>
+In the past, I used to gravitate towards big cities, following trends and being influenced by the people around me. However, I had a realization about the side effects of metropolitan living, such as pollution and limited living space. This led me to explore more possibilities in life, including studying a new major and traveling to new countries. Now, I consider myself an adventurer and trailblazer, and I believe this attribute will greatly enrich my life.<br>
+After experiencing numerous unforeseen incidents in recent months, I began to comprehend the sense of powerlessness that individuals face and the importance of embracing uncertainty.<br>
+My interests are quite diverse, ranging from sports to music. On this website, I have documented some of my proudest moments, which you can access below...<br>
 </div>
 </div>
 My research interest includes computer vision and self-supervised learning. I have several related projects and academic journals with total <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>64+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=3ZqwcEYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -38,8 +37,7 @@ My research interest includes computer vision and self-supervised learning. I ha
 - *2016.08 - 2020.06*, Bachelor, The Hong Kong Polytechnic University, Hong Kong
 - *2018.09 - 2019.01*, Exchange Program, Cardiff University, United Kingdom\
 # 💻 Work Experience
-- *2023.12 - 2025-6*, Senior Computer Vision Algorithm Engineer, UBTECH, Shenzhen, China
-- *2023.12 - 2025-6*, Computer Vision Algorithm Engineer,HAOMO.AI, Beijing, China
+- *2023.12 - Now*, Computer Vision Algorithm Engineer,HAOMO.AI, Beijing, China
 - *2022.06 - 2022.9*, Data Scientist, TCL Corporate Research, Hong Kong
 - *2020.07 - 2021.7*, Research Assistant, Hong Kong Polytechnic University, Hong Kong\
 # 🎓 Projects
