@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zijian HE"
-description              : "Recent graduate in Electrial Engineering from UC San Diego"
+description              : "AI Engineer working on Vision-Language Models (VLM), Vision-Language-Action (VLA), Embodied AI, and Foundation Models for Robotics and Autonomous Driving. UC San Diego."
 repository               : "hzjian123/hzjian123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,7 +15,7 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      : "G-WK9V9NC569" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  google-site-verification=MUqVpTlCYaKGSoz4Rqi66aoxpM_TKgUn_xRvY7WKtKE# get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  "MUqVpTlCYaKGSoz4Rqi66aoxpM_TKgUn_xRvY7WKtKE" # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
   location         : "Kowloon,Hong Kong"
-  employer         : "HAOMO.AI"
+  employer         : "UBTECH"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3ZqwcEYAAAAJ"
   email            : "hzj1271@gmail.com"
@@ -40,7 +40,7 @@ author:
   github           : "hzjian123"# e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        : "eachannn"
+  instagram        : #"eachannn"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hzjian123"# e.g., "linkedin username"
