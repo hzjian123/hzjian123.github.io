@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zijian HE"
-description              : "AI Engineer working on Vision-Language Models (VLM), Vision-Language-Action (VLA), Embodied AI, and Foundation Models for Robotics and Autonomous Driving. UC San Diego."
+description              : "Recent graduate in Electrial Engineering from UC San Diego"
 repository               : "hzjian123/hzjian123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
   location         : "Kowloon,Hong Kong"
-  employer         : "UBTECH"
+  employer         : "HAOMO.AI"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3ZqwcEYAAAAJ"
   email            : "hzj1271@gmail.com"
@@ -40,7 +40,7 @@ author:
   github           : "hzjian123"# e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        : #"eachannn"
+  instagram        : "eachannn"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hzjian123"# e.g., "linkedin username"
